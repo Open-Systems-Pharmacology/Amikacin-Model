@@ -7,9 +7,9 @@ Whole-body PBPK model of Amikacin
 
 ## Repository files
 
-Within this repository, we distribute a whole-body PBPK model of  Vancomycin, that has been developed using clinical studies in adults and evaluated for its predictive performance of GFR mediated clearance in children. 
+Within this repository, we distribute a whole-body PBPK model of  Amikacin, that has been previously developed using clinical studies in preterm-neonates [1] and evaluated for its predictive performance of GFR mediated clearance in term born children. 
 
-The PK-Sim project file contains simulations of all published  clinical studies employed during model establishment and predictive simulations in pediatrics, including the respective observed data digitized.
+The PK-Sim project file contains simulations of all published pediatric clinical studies employed for model predictions in pediatrics. For details on the model development in pre-term neonates, quantitative model evaluation, sensitivity analysis and extensive documentation please refer to [[1](#reference)].
 
 ## Code of conduct
 
@@ -22,3 +22,6 @@ We encourage contribution to the Open Systems Pharmacology community. Before get
 ## License
 
 The model code is distributed under the [GPLv2 License](https://github.com/Open-Systems-Pharmacology/Suite/blob/develop/LICENSE).
+
+## Reference
+[1] [Claassen K, Thelen K, Coboeken K, Gaub T, Lippert J, Allegaert K, Willmann S1. Development of a Physiologically-Based Pharmacokinetic Model for Preterm Neonates: Evaluation with In Vivo Data. Curr Pharm Des. 2015;21(39):5688-98.
