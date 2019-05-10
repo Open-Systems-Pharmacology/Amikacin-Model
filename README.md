@@ -28,7 +28,7 @@ The model code is distributed under the [GPLv2 License](https://github.com/Open-
 
 [2] [Tréluyer JM, Merlé Y, Tonnelier S, Rey E, Pons G. Nonparametric population pharmacokinetic analysis of amikacin in neonates, infants, and children. Antimicrob Agents Chemother. 2002 May;46(5):1381-7.](https://aac.asm.org/content/46/5/1381.long)
 
-[3][Vogelstein B, Kowarski A, Lietman PS. The pharmacokinetics of amikacin in children.J Pediatr. 1977 Aug;91(2):333-9.](https://www.sciencedirect.com/science/article/pii/S0022347677808470?via%3Dihub)
+[3] [Vogelstein B, Kowarski A, Lietman PS. The pharmacokinetics of amikacin in children.J Pediatr. 1977 Aug;91(2):333-9.](https://www.sciencedirect.com/science/article/pii/S0022347677808470?via%3Dihub)
 
-[4][Belfayol L, Talon P, Eveillard M, Alet P, Fauvelle F. Pharmacokinetics of once-daily amikacin in pediatric patients.Clin Microbiol Infect. 1996 Feb;2(3):186-191.](https://www.sciencedirect.com/science/article/pii/S1198743X14651417?via%3Dihub)
+[4] [Belfayol L, Talon P, Eveillard M, Alet P, Fauvelle F. Pharmacokinetics of once-daily amikacin in pediatric patients.Clin Microbiol Infect. 1996 Feb;2(3):186-191.](https://www.sciencedirect.com/science/article/pii/S1198743X14651417?via%3Dihub)
 
