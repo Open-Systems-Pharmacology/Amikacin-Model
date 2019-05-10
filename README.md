@@ -9,7 +9,7 @@ Whole-body PBPK model of Amikacin
 
 Within this repository, we distribute a whole-body PBPK model of  Amikacin, that has been previously developed using clinical studies in preterm-neonates [[1](#reference)] and evaluated for its predictive performance of GFR mediated clearance in term born children. 
 
-The PK-Sim project file contains simulations of all published pediatric clinical studies employed for model predictions [[2-4](#reference)] in pediatrics. For details on the model development in pre-term neonates, quantitative model evaluation, sensitivity analysis and documentation please refer to [[1](#reference)].
+The PK-Sim project file contains simulations of all published pediatric clinical studies that are used for model predictions [[2-4](#reference)] in pediatrics. For details on the model development in pre-term neonates, quantitative model evaluation, sensitivity analysis and documentation please refer to [[1](#reference)].
 
 ## Code of conduct
 
