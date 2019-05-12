@@ -7,9 +7,9 @@ Whole-body PBPK model of Amikacin
 
 ## Repository files
 
-Within this repository, we distribute a whole-body PBPK model of  Amikacin, that has been previously developed using clinical studies in preterm-neonates [[1](#reference)] and evaluated for its predictive performance of GFR mediated clearance in term born children. 
+Within this repository, we distribute a whole-body PBPK model of  Amikacin, that has been previously developed using clinical studies in preterm-neonates [[1](#reference)] and evaluated for its predictive performance of GFR mediated clearance in adults and term born children. 
 
-The PK-Sim project file contains simulations of all published pediatric clinical studies that are used for model predictions [[2-4](#reference)] in pediatrics. For details on the model development in pre-term neonates, quantitative model evaluation, sensitivity analysis and documentation please refer to [[1](#reference)].
+The PK-Sim project file contains simulations of all published pediatric clinical studies that are used for model predictions [[2-5](#reference)] in pediatrics. For details on the model development in pre-term neonates, quantitative model evaluation, sensitivity analysis and documentation please refer to [[1](#reference)].
 
 ## Code of conduct
 
@@ -31,4 +31,6 @@ The model code is distributed under the [GPLv2 License](https://github.com/Open-
 [3] [Vogelstein B, Kowarski A, Lietman PS. The pharmacokinetics of amikacin in children. J Pediatr. 1977 Aug;91(2):333-9.](https://www.sciencedirect.com/science/article/pii/S0022347677808470?via%3Dihub)
 
 [4] [Belfayol L, Talon P, Eveillard M, Alet P, Fauvelle F. Pharmacokinetics of once-daily amikacin in pediatric patients. Clin Microbiol Infect. 1996 Feb;2(3):186-191.](https://www.sciencedirect.com/science/article/pii/S1198743X14651417?via%3Dihub)
+
+[5] Walker JM, Wise R, Mitchard M. The pharmacokinetics of amikacin and gentamicin in volunteers: a comparison of individual differences. J Antimicrob Chemother. 1979 Jan;5(1):95-9.(https://academic.oup.com/jac/article/5/1/95/747852)  
 
