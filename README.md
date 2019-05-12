@@ -32,5 +32,5 @@ The model code is distributed under the [GPLv2 License](https://github.com/Open-
 
 [4] [Belfayol L, Talon P, Eveillard M, Alet P, Fauvelle F. Pharmacokinetics of once-daily amikacin in pediatric patients. Clin Microbiol Infect. 1996 Feb;2(3):186-191.](https://www.sciencedirect.com/science/article/pii/S1198743X14651417?via%3Dihub)
 
-[5] Walker JM, Wise R, Mitchard M. The pharmacokinetics of amikacin and gentamicin in volunteers: a comparison of individual differences. J Antimicrob Chemother. 1979 Jan;5(1):95-9.(https://academic.oup.com/jac/article/5/1/95/747852)  
+[5] [Walker JM, Wise R, Mitchard M. The pharmacokinetics of amikacin and gentamicin in volunteers: a comparison of individual differences. J Antimicrob Chemother. 1979 Jan;5(1):95-9.](https://academic.oup.com/jac/article/5/1/95/747852)  
 
