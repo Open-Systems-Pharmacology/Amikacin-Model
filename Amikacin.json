@@ -22244,77 +22244,6 @@
               {
                 "Name": "Concentration-Walker 1979 POP-Amikacin-Organism-Peripheral Venous Blood-Plasma",
                 "Dimension": "Concentration (molar)",
-                "Scaling": "Linear",
-                "Unit": "mg/l",
-                "QuantityPath": "Organism|PeripheralVenousBlood|Amikacin|Plasma (Peripheral Venous Blood)",
-                "QuantityType": "Drug, Observer",
-                "Color": "Black",
-                "Area": "DataArea"
-              }
-            ],
-            "Statistics": [
-              {
-                "Id": "ArithmeticMean",
-                "LineStyle": "Solid"
-              },
-              {
-                "Id": "ArithmeticStandardDeviation",
-                "LineStyle": "Solid"
-              }
-            ]
-          },
-          "ObservedDataCollection": {
-            "ObservedData": [
-              "Walker 1979.500mg.IV bolus 4min (2-5min).mean + SD"
-            ],
-            "ApplyGrouping": false,
-            "CurveOptions": [
-              {
-                "Caption": "Walker 1979.500mg.IV bolus 4min (2-5min).mean + SD-Amikacin-Peripheral Venous Blood-Plasma-Mean (Concentration) ",
-                "Path": "Walker 1979.500mg.IV bolus 4min (2-5min).mean + SD|ObservedData|Peripheral Venous Blood|Plasma|Amikacin|Mean (Concentration) ",
-                "CurveOptions": {
-                  "LineStyle": "None",
-                  "Symbol": "Circle"
-                }
-              }
-            ]
-          },
-          "XAxisSettings": {
-            "AutoRange": false
-          },
-          "YAxisSettings": {
-            "AutoRange": false
-          },
-          "SecondaryYAxisSettings": [],
-          "Name": "Time Profile Analysis",
-          "FontAndSize": {
-            "ChartWidth": 600,
-            "ChartHeight": 400,
-            "Fonts": {
-              "AxisSize": 10,
-              "LegendSize": 8,
-              "TitleSize": 16,
-              "DescriptionSize": 12,
-              "OriginSize": 8,
-              "FontFamilyName": "Microsoft Sans Serif",
-              "WatermarkSize": 32
-            }
-          },
-          "Settings": {
-            "SideMarginsEnabled": true,
-            "LegendPosition": "Bottom",
-            "BackColor": "Transparent",
-            "DiagramBackColor": "White"
-          },
-          "OriginText": "Amikacin_clean\nWalker 1979 POP\n2019-05-11 11:42"
-        },
-        {
-          "Type": "TimeProfile",
-          "Analysis": {
-            "Fields": [
-              {
-                "Name": "Concentration-Walker 1979 POP-Amikacin-Organism-Peripheral Venous Blood-Plasma",
-                "Dimension": "Concentration (molar)",
                 "Scaling": "Log",
                 "Unit": "mg/l",
                 "QuantityPath": "Organism|PeripheralVenousBlood|Amikacin|Plasma (Peripheral Venous Blood)",
@@ -22358,6 +22287,77 @@
           },
           "SecondaryYAxisSettings": [],
           "Name": "Time Profile Analysis 1",
+          "FontAndSize": {
+            "ChartWidth": 600,
+            "ChartHeight": 400,
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "Bottom",
+            "BackColor": "Transparent",
+            "DiagramBackColor": "White"
+          },
+          "OriginText": "Amikacin_clean\nWalker 1979 POP\n2019-05-11 11:42"
+        },
+        {
+          "Type": "TimeProfile",
+          "Analysis": {
+            "Fields": [
+              {
+                "Name": "Concentration-Walker 1979 POP-Amikacin-Organism-Peripheral Venous Blood-Plasma",
+                "Dimension": "Concentration (molar)",
+                "Scaling": "Log",
+                "Unit": "µg/l",
+                "QuantityPath": "Organism|PeripheralVenousBlood|Amikacin|Plasma (Peripheral Venous Blood)",
+                "QuantityType": "Drug, Observer",
+                "Color": "Black",
+                "Area": "DataArea"
+              }
+            ],
+            "Statistics": [
+              {
+                "Id": "ArithmeticMean",
+                "LineStyle": "Solid"
+              },
+              {
+                "Id": "ArithmeticStandardDeviation",
+                "LineStyle": "Solid"
+              }
+            ]
+          },
+          "ObservedDataCollection": {
+            "ObservedData": [
+              "Walker 1979.500mg.IV bolus 4min (2-5min).mean + SD"
+            ],
+            "ApplyGrouping": false,
+            "CurveOptions": [
+              {
+                "Caption": "Walker 1979.500mg.IV bolus 4min (2-5min).mean + SD-Amikacin-Peripheral Venous Blood-Plasma-Mean (Concentration) ",
+                "Path": "Walker 1979.500mg.IV bolus 4min (2-5min).mean + SD|ObservedData|Peripheral Venous Blood|Plasma|Amikacin|Mean (Concentration) ",
+                "CurveOptions": {
+                  "LineStyle": "None",
+                  "Symbol": "Circle"
+                }
+              }
+            ]
+          },
+          "XAxisSettings": {
+            "AutoRange": false
+          },
+          "YAxisSettings": {
+            "AutoRange": false
+          },
+          "SecondaryYAxisSettings": [],
+          "Name": "Time Profile Analysis",
           "FontAndSize": {
             "ChartWidth": 600,
             "ChartHeight": 400,
