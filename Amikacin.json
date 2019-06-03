@@ -20118,7 +20118,7 @@
       ]
     },
     {
-      "Name": "Treluyer 2002 9.21m ID7",
+      "Name": "Treluyer 2002 9.21m ID8",
       "Model": "4Comp",
       "Solver": {},
       "OutputSchema": [
@@ -20221,9 +20221,9 @@
           ],
           "Curves": [
             {
-              "Name": "Treluyer 2002 9.21m ID7-Amikacin-Peripheral Venous Blood-Plasma-Concentration",
+              "Name": "Treluyer 2002 9.21m ID8-Amikacin-Peripheral Venous Blood-Plasma-Concentration",
               "X": "Time",
-              "Y": "Treluyer 2002 9.21m ID7|Organism|PeripheralVenousBlood|Amikacin|Plasma (Peripheral Venous Blood)",
+              "Y": "Treluyer 2002 9.21m ID8|Organism|PeripheralVenousBlood|Amikacin|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
                 "Color": "255, 0, 0",
                 "LegendIndex": 1
@@ -21638,7 +21638,7 @@
               "NumberMode": "Normal"
             },
             {
-              "Unit": "µmol/l",
+              "Unit": "µg/l",
               "Dimension": "Concentration (molar)",
               "Type": "Y",
               "GridLines": false,
@@ -22041,7 +22041,7 @@
               "NumberMode": "Normal"
             },
             {
-              "Unit": "µmol/l",
+              "Unit": "µg/l",
               "Dimension": "Concentration (molar)",
               "Type": "Y",
               "GridLines": false,
@@ -22245,7 +22245,7 @@
                 "Name": "Concentration-Walker 1979 POP-Amikacin-Organism-Peripheral Venous Blood-Plasma",
                 "Dimension": "Concentration (molar)",
                 "Scaling": "Log",
-                "Unit": "mg/l",
+                "Unit": "µg/l",
                 "QuantityPath": "Organism|PeripheralVenousBlood|Amikacin|Plasma (Peripheral Venous Blood)",
                 "QuantityType": "Drug, Observer",
                 "Color": "Black",
@@ -22286,7 +22286,7 @@
             "AutoRange": false
           },
           "SecondaryYAxisSettings": [],
-          "Name": "Time Profile Analysis 1",
+          "Name": "Time Profile Analysis",
           "FontAndSize": {
             "ChartWidth": 600,
             "ChartHeight": 400,
@@ -22357,7 +22357,7 @@
             "AutoRange": false
           },
           "SecondaryYAxisSettings": [],
-          "Name": "Time Profile Analysis",
+          "Name": "Time Profile Analysis 1",
           "FontAndSize": {
             "ChartWidth": 600,
             "ChartHeight": 400,
@@ -22446,20 +22446,20 @@
             "MolWeight": 588.6
           },
           "Values": [
-            49.50253,
-            36.50499,
-            32.39335,
-            22.87847,
-            18.8198,
-            14.34517,
-            10.70563,
-            7.403627,
-            6.094348,
-            3.61880517,
-            2.42557
+            49502.53,
+            36504.99,
+            32393.35,
+            22878.47,
+            18819.7988,
+            14345.17,
+            10705.63,
+            7403.627,
+            6094.348,
+            3618.80518,
+            2425.57
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/l"
         }
       ],
       "BaseGrid": {
@@ -22555,20 +22555,20 @@
             "MolWeight": 588.6
           },
           "Values": [
-            34.94027,
-            26.621,
-            26.3396187,
-            18.60338,
-            14.651,
-            12.05126,
-            8.334432,
-            5.340858,
-            3.348717,
-            2.445345,
-            1.048928
+            34940.27,
+            26621.0,
+            26339.62,
+            18603.3789,
+            14651.0,
+            12051.26,
+            8334.432,
+            5340.858,
+            3348.717,
+            2445.345,
+            1048.928
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/l"
         }
       ],
       "BaseGrid": {
@@ -22776,7 +22776,7 @@
             "Treluyer 2002 1.27m ID5",
             "Treluyer 2002 1.75m ID6",
             "Treluyer 2002 6.19m ID7",
-            "Treluyer 2002 9.21m ID7",
+            "Treluyer 2002 9.21m ID8",
             "Treluyer 2002 24.29m ID9",
             "Treluyer 2002 48.73m ID10",
             "Treluyer 2002 73.02m ID11",
