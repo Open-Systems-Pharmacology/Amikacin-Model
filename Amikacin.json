@@ -1,5 +1,5 @@
 {
-  "Version": 75,
+  "Version": 76,
   "Individuals": [
     {
       "Name": "Vogelstein_10",
@@ -17073,7 +17073,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -17084,7 +17084,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -17096,7 +17096,7 @@
               "X": "Time",
               "Y": "Vogelstein#1|Organism|PeripheralVenousBlood|Amikacin|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             }
@@ -17188,7 +17188,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -17199,7 +17199,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -17211,7 +17211,7 @@
               "X": "Time",
               "Y": "Vogelstein#3|Organism|PeripheralVenousBlood|Amikacin|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             }
@@ -17303,7 +17303,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -17314,7 +17314,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -17326,7 +17326,7 @@
               "X": "Time",
               "Y": "Vogelstein#2|Organism|PeripheralVenousBlood|Amikacin|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             }
@@ -17418,7 +17418,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -17429,7 +17429,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -17441,7 +17441,7 @@
               "X": "Time",
               "Y": "Vogelstein#4|Organism|PeripheralVenousBlood|Amikacin|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             }
@@ -17533,7 +17533,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -17544,7 +17544,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -17556,7 +17556,7 @@
               "X": "Time",
               "Y": "Vogelstein#5|Organism|PeripheralVenousBlood|Amikacin|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             }
@@ -17648,7 +17648,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -17659,7 +17659,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -17671,7 +17671,7 @@
               "X": "Time",
               "Y": "Vogelstein#6|Organism|PeripheralVenousBlood|Amikacin|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             }
@@ -17763,7 +17763,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -17774,7 +17774,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -17786,7 +17786,7 @@
               "X": "Time",
               "Y": "Vogelstein#7|Organism|PeripheralVenousBlood|Amikacin|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             }
@@ -17878,7 +17878,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -17889,7 +17889,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -17901,7 +17901,7 @@
               "X": "Time",
               "Y": "Vogelstein#8|Organism|PeripheralVenousBlood|Amikacin|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             }
@@ -17993,7 +17993,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -18004,7 +18004,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -18016,7 +18016,7 @@
               "X": "Time",
               "Y": "Vogelstein#9|Organism|PeripheralVenousBlood|Amikacin|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             }
@@ -18108,7 +18108,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -18119,7 +18119,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -18131,7 +18131,7 @@
               "X": "Time",
               "Y": "Vogelstein#10|Organism|PeripheralVenousBlood|Amikacin|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             }
@@ -18223,7 +18223,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -18234,7 +18234,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -18246,7 +18246,7 @@
               "X": "Time",
               "Y": "Vogelstein#11|Organism|PeripheralVenousBlood|Amikacin|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             }
@@ -18338,7 +18338,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -18349,7 +18349,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -18361,7 +18361,7 @@
               "X": "Time",
               "Y": "Vogelstein#12|Organism|PeripheralVenousBlood|Amikacin|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             }
@@ -18453,7 +18453,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -18464,7 +18464,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -18476,7 +18476,7 @@
               "X": "Time",
               "Y": "Vogelstein#13|Organism|PeripheralVenousBlood|Amikacin|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             }
@@ -18568,7 +18568,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -18579,7 +18579,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -18591,7 +18591,7 @@
               "X": "Time",
               "Y": "Vogelstein#14|Organism|PeripheralVenousBlood|Amikacin|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             }
@@ -18683,7 +18683,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -18694,7 +18694,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -18706,7 +18706,7 @@
               "X": "Time",
               "Y": "Vogelstein#15|Organism|PeripheralVenousBlood|Amikacin|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             }
@@ -18798,7 +18798,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -18809,7 +18809,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -18821,7 +18821,7 @@
               "X": "Time",
               "Y": "Vogelstein#16|Organism|PeripheralVenousBlood|Amikacin|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             }
@@ -18913,7 +18913,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -18924,7 +18924,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -18936,7 +18936,7 @@
               "X": "Time",
               "Y": "Vogelstein#17|Organism|PeripheralVenousBlood|Amikacin|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             }
@@ -19028,7 +19028,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -19039,7 +19039,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -19051,7 +19051,7 @@
               "X": "Time",
               "Y": "Vogelstein#18|Organism|PeripheralVenousBlood|Amikacin|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             }
@@ -19143,7 +19143,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -19154,7 +19154,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -19166,7 +19166,7 @@
               "X": "Time",
               "Y": "Vogelstein#19|Organism|PeripheralVenousBlood|Amikacin|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             }
@@ -19258,7 +19258,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -19269,7 +19269,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -19281,7 +19281,7 @@
               "X": "Time",
               "Y": "Vogelstein#20|Organism|PeripheralVenousBlood|Amikacin|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             }
@@ -19376,7 +19376,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -19387,7 +19387,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -19399,7 +19399,7 @@
               "X": "Time",
               "Y": "Treluyer 2002 0.16m ID1|Organism|PeripheralVenousBlood|Amikacin|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             }
@@ -19494,7 +19494,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -19505,7 +19505,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -19517,7 +19517,7 @@
               "X": "Time",
               "Y": "Treluyer 2002 0.48m ID2|Organism|PeripheralVenousBlood|Amikacin|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             }
@@ -19612,7 +19612,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -19623,7 +19623,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -19635,7 +19635,7 @@
               "X": "Time",
               "Y": "Treluyer 2002 0.79m ID3|Organism|PeripheralVenousBlood|Amikacin|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             }
@@ -19730,7 +19730,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -19741,7 +19741,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -19753,7 +19753,7 @@
               "X": "Time",
               "Y": "Treluyer 2002 0.95m ID4|Organism|PeripheralVenousBlood|Amikacin|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             }
@@ -19848,7 +19848,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -19859,7 +19859,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -19871,7 +19871,7 @@
               "X": "Time",
               "Y": "Treluyer 2002 1.27m ID5|Organism|PeripheralVenousBlood|Amikacin|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             }
@@ -19966,7 +19966,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -19977,7 +19977,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -19989,7 +19989,7 @@
               "X": "Time",
               "Y": "Treluyer 2002 1.75m ID6|Organism|PeripheralVenousBlood|Amikacin|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             }
@@ -20084,7 +20084,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -20095,7 +20095,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -20107,7 +20107,7 @@
               "X": "Time",
               "Y": "Treluyer 2002 6.19m ID7|Organism|PeripheralVenousBlood|Amikacin|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             }
@@ -20118,7 +20118,7 @@
       ]
     },
     {
-      "Name": "Treluyer 2002 9.21m ID8",
+      "Name": "Treluyer 2002 9.21m ID7",
       "Model": "4Comp",
       "Solver": {},
       "OutputSchema": [
@@ -20202,7 +20202,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -20213,7 +20213,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -20221,11 +20221,11 @@
           ],
           "Curves": [
             {
-              "Name": "Treluyer 2002 9.21m ID8-Amikacin-Peripheral Venous Blood-Plasma-Concentration",
+              "Name": "Treluyer 2002 9.21m ID7-Amikacin-Peripheral Venous Blood-Plasma-Concentration",
               "X": "Time",
-              "Y": "Treluyer 2002 9.21m ID8|Organism|PeripheralVenousBlood|Amikacin|Plasma (Peripheral Venous Blood)",
+              "Y": "Treluyer 2002 9.21m ID7|Organism|PeripheralVenousBlood|Amikacin|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             }
@@ -20320,7 +20320,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -20331,7 +20331,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -20343,7 +20343,7 @@
               "X": "Time",
               "Y": "Treluyer 2002 24.29m ID9|Organism|PeripheralVenousBlood|Amikacin|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             }
@@ -20438,7 +20438,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -20449,7 +20449,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -20461,7 +20461,7 @@
               "X": "Time",
               "Y": "Treluyer 2002 48.73m ID10|Organism|PeripheralVenousBlood|Amikacin|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             }
@@ -20556,7 +20556,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -20567,7 +20567,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -20579,7 +20579,7 @@
               "X": "Time",
               "Y": "Treluyer 2002 73.02m ID11|Organism|PeripheralVenousBlood|Amikacin|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             }
@@ -20674,7 +20674,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -20685,7 +20685,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -20697,7 +20697,7 @@
               "X": "Time",
               "Y": "Treluyer 2002 85.08m ID12|Organism|PeripheralVenousBlood|Amikacin|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             }
@@ -20776,7 +20776,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -20787,7 +20787,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -20799,7 +20799,7 @@
               "X": "Time",
               "Y": "Belfayol 1996 mean|Organism|PeripheralVenousBlood|Amikacin|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             }
@@ -20879,7 +20879,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -20890,7 +20890,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -20901,7 +20901,7 @@
               "Type": "Y2",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Dash",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -20913,7 +20913,7 @@
               "X": "Time",
               "Y": "Walker 1979 Volunteer 1|Organism|PeripheralVenousBlood|Amikacin|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             },
@@ -20923,7 +20923,7 @@
               "Y": "Walker 1979 Volunteer 1|Organism|Kidney|Urine|Amikacin|Fraction excreted to urine",
               "CurveOptions": {
                 "yAxisType": "Y2",
-                "Color": "0, 0, 255",
+                "Color": "#0000FF",
                 "LegendIndex": 2,
                 "LineStyle": "Dash"
               }
@@ -21004,7 +21004,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -21015,7 +21015,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -21026,7 +21026,7 @@
               "Type": "Y2",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Dash",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -21038,7 +21038,7 @@
               "X": "Time",
               "Y": "Walker 1979 Volunteer 10|Organism|PeripheralVenousBlood|Amikacin|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             },
@@ -21048,7 +21048,7 @@
               "Y": "Walker 1979 Volunteer 10|Organism|Kidney|Urine|Amikacin|Fraction excreted to urine",
               "CurveOptions": {
                 "yAxisType": "Y2",
-                "Color": "0, 0, 255",
+                "Color": "#0000FF",
                 "LegendIndex": 2,
                 "LineStyle": "Dash"
               }
@@ -21129,7 +21129,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -21140,7 +21140,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -21151,7 +21151,7 @@
               "Type": "Y2",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Dash",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -21163,7 +21163,7 @@
               "X": "Time",
               "Y": "Walker 1979 Volunteer 2|Organism|PeripheralVenousBlood|Amikacin|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             },
@@ -21173,7 +21173,7 @@
               "Y": "Walker 1979 Volunteer 2|Organism|Kidney|Urine|Amikacin|Fraction excreted to urine",
               "CurveOptions": {
                 "yAxisType": "Y2",
-                "Color": "0, 0, 255",
+                "Color": "#0000FF",
                 "LegendIndex": 2,
                 "LineStyle": "Dash"
               }
@@ -21254,7 +21254,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -21265,7 +21265,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -21276,7 +21276,7 @@
               "Type": "Y2",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Dash",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -21288,7 +21288,7 @@
               "X": "Time",
               "Y": "Walker 1979 Volunteer 3|Organism|PeripheralVenousBlood|Amikacin|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             },
@@ -21298,7 +21298,7 @@
               "Y": "Walker 1979 Volunteer 3|Organism|Kidney|Urine|Amikacin|Fraction excreted to urine",
               "CurveOptions": {
                 "yAxisType": "Y2",
-                "Color": "0, 0, 255",
+                "Color": "#0000FF",
                 "LegendIndex": 2,
                 "LineStyle": "Dash"
               }
@@ -21379,7 +21379,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -21390,7 +21390,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -21401,7 +21401,7 @@
               "Type": "Y2",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Dash",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -21413,7 +21413,7 @@
               "X": "Time",
               "Y": "Walker 1979 Volunteer 4|Organism|PeripheralVenousBlood|Amikacin|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             },
@@ -21423,7 +21423,7 @@
               "Y": "Walker 1979 Volunteer 4|Organism|Kidney|Urine|Amikacin|Fraction excreted to urine",
               "CurveOptions": {
                 "yAxisType": "Y2",
-                "Color": "0, 0, 255",
+                "Color": "#0000FF",
                 "LegendIndex": 2,
                 "LineStyle": "Dash"
               }
@@ -21504,7 +21504,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -21515,7 +21515,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -21526,7 +21526,7 @@
               "Type": "Y2",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Dash",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -21538,7 +21538,7 @@
               "X": "Time",
               "Y": "Walker 1979 Volunteer 5|Organism|PeripheralVenousBlood|Amikacin|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             },
@@ -21548,7 +21548,7 @@
               "Y": "Walker 1979 Volunteer 5|Organism|Kidney|Urine|Amikacin|Fraction excreted to urine",
               "CurveOptions": {
                 "yAxisType": "Y2",
-                "Color": "0, 0, 255",
+                "Color": "#0000FF",
                 "LegendIndex": 2,
                 "LineStyle": "Dash"
               }
@@ -21632,7 +21632,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -21643,7 +21643,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -21654,7 +21654,7 @@
               "Type": "Y2",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Dash",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -21666,7 +21666,7 @@
               "X": "Time",
               "Y": "Walker 1979 Volunteer 6|Organism|PeripheralVenousBlood|Amikacin|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             },
@@ -21677,7 +21677,7 @@
               "CurveOptions": {
                 "yAxisType": "Y2",
                 "Visible": false,
-                "Color": "0, 0, 255",
+                "Color": "#0000FF",
                 "LegendIndex": 2,
                 "LineStyle": "Dash"
               }
@@ -21687,7 +21687,7 @@
               "X": "Walker 1979.500mg.IV bolus 4min (2-5min).Volunteer 6|Time ",
               "Y": "Walker 1979.500mg.IV bolus 4min (2-5min).Volunteer 6|ObservedData|Peripheral Venous Blood|Plasma|Amikacin|Volunteer 6 (Concentration) ",
               "CurveOptions": {
-                "Color": "0, 128, 0",
+                "Color": "#008000",
                 "LegendIndex": 3,
                 "LineStyle": "None",
                 "Symbol": "Circle"
@@ -21695,6 +21695,92 @@
             }
           ],
           "Name": "Time Profile Analysis",
+          "FontAndSize": {
+            "ChartWidth": 600,
+            "ChartHeight": 400,
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "OriginText": "Amikacin_clean\nWalker 1979 Volunteer 6\n2019-05-11 11:35"
+        },
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µg/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "",
+              "Dimension": "Fraction",
+              "Type": "Y2",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Dash",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Walker 1979 Volunteer 6-Amikacin-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Walker 1979 Volunteer 6|Organism|PeripheralVenousBlood|Amikacin|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "Walker 1979 Volunteer 6-Amikacin-Kidney-Urine-Fraction excreted to urine",
+              "X": "Time",
+              "Y": "Walker 1979 Volunteer 6|Organism|Kidney|Urine|Amikacin|Fraction excreted to urine",
+              "CurveOptions": {
+                "yAxisType": "Y2",
+                "Visible": false,
+                "Color": "#0000FF",
+                "LegendIndex": 2,
+                "LineStyle": "Dash"
+              }
+            },
+            {
+              "Name": "Walker 1979.500mg.IV bolus 4min (2-5min).Volunteer 6-Amikacin-Peripheral Venous Blood-Plasma-Volunteer 6 (Concentration) ",
+              "X": "Walker 1979.500mg.IV bolus 4min (2-5min).Volunteer 6|Time ",
+              "Y": "Walker 1979.500mg.IV bolus 4min (2-5min).Volunteer 6|ObservedData|Peripheral Venous Blood|Plasma|Amikacin|Volunteer 6 (Concentration) ",
+              "CurveOptions": {
+                "Color": "#008000",
+                "LegendIndex": 3,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis 1",
           "FontAndSize": {
             "ChartWidth": 600,
             "ChartHeight": 400,
@@ -21782,7 +21868,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -21793,7 +21879,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -21804,7 +21890,7 @@
               "Type": "Y2",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Dash",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -21816,7 +21902,7 @@
               "X": "Time",
               "Y": "Walker 1979 Volunteer 7|Organism|PeripheralVenousBlood|Amikacin|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             },
@@ -21826,7 +21912,7 @@
               "Y": "Walker 1979 Volunteer 7|Organism|Kidney|Urine|Amikacin|Fraction excreted to urine",
               "CurveOptions": {
                 "yAxisType": "Y2",
-                "Color": "0, 0, 255",
+                "Color": "#0000FF",
                 "LegendIndex": 2,
                 "LineStyle": "Dash"
               }
@@ -21907,7 +21993,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -21918,7 +22004,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -21929,7 +22015,7 @@
               "Type": "Y2",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Dash",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -21941,7 +22027,7 @@
               "X": "Time",
               "Y": "Walker 1979 Volunteer 8|Organism|PeripheralVenousBlood|Amikacin|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             },
@@ -21951,7 +22037,7 @@
               "Y": "Walker 1979 Volunteer 8|Organism|Kidney|Urine|Amikacin|Fraction excreted to urine",
               "CurveOptions": {
                 "yAxisType": "Y2",
-                "Color": "0, 0, 255",
+                "Color": "#0000FF",
                 "LegendIndex": 2,
                 "LineStyle": "Dash"
               }
@@ -22035,7 +22121,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -22046,7 +22132,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -22057,7 +22143,7 @@
               "Type": "Y2",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Dash",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -22069,7 +22155,7 @@
               "X": "Time",
               "Y": "Walker 1979 Volunteer 9|Organism|PeripheralVenousBlood|Amikacin|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             },
@@ -22081,7 +22167,7 @@
                 "yAxisType": "Y2",
                 "Visible": false,
                 "VisibleInLegend": false,
-                "Color": "0, 0, 255",
+                "Color": "#0000FF",
                 "LegendIndex": 2,
                 "LineStyle": "Dash"
               }
@@ -22091,7 +22177,7 @@
               "X": "Walker 1979.500mg.IV bolus 4min (2-5min).Volunteer 9|Time ",
               "Y": "Walker 1979.500mg.IV bolus 4min (2-5min).Volunteer 9|ObservedData|Peripheral Venous Blood|Plasma|Amikacin|Volunteer 9 (Concentration) ",
               "CurveOptions": {
-                "Color": "0, 128, 0",
+                "Color": "#008000",
                 "LegendIndex": 3,
                 "LineStyle": "None",
                 "Symbol": "Circle"
@@ -22099,6 +22185,93 @@
             }
           ],
           "Name": "Time Profile Analysis",
+          "FontAndSize": {
+            "ChartWidth": 600,
+            "ChartHeight": 400,
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "OriginText": "Amikacin_clean\nWalker 1979 Volunteer 9\n2019-05-11 11:36"
+        },
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µg/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "",
+              "Dimension": "Fraction",
+              "Type": "Y2",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Dash",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Walker 1979 Volunteer 9-Amikacin-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Walker 1979 Volunteer 9|Organism|PeripheralVenousBlood|Amikacin|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "Walker 1979 Volunteer 9-Amikacin-Kidney-Urine-Fraction excreted to urine",
+              "X": "Time",
+              "Y": "Walker 1979 Volunteer 9|Organism|Kidney|Urine|Amikacin|Fraction excreted to urine",
+              "CurveOptions": {
+                "yAxisType": "Y2",
+                "Visible": false,
+                "VisibleInLegend": false,
+                "Color": "#0000FF",
+                "LegendIndex": 2,
+                "LineStyle": "Dash"
+              }
+            },
+            {
+              "Name": "Walker 1979.500mg.IV bolus 4min (2-5min).Volunteer 9-Amikacin-Peripheral Venous Blood-Plasma-Volunteer 9 (Concentration) ",
+              "X": "Walker 1979.500mg.IV bolus 4min (2-5min).Volunteer 9|Time ",
+              "Y": "Walker 1979.500mg.IV bolus 4min (2-5min).Volunteer 9|ObservedData|Peripheral Venous Blood|Plasma|Amikacin|Volunteer 9 (Concentration) ",
+              "CurveOptions": {
+                "Color": "#008000",
+                "LegendIndex": 3,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis 1",
           "FontAndSize": {
             "ChartWidth": 600,
             "ChartHeight": 400,
@@ -22248,7 +22421,7 @@
                 "Unit": "µg/l",
                 "QuantityPath": "Organism|PeripheralVenousBlood|Amikacin|Plasma (Peripheral Venous Blood)",
                 "QuantityType": "Drug, Observer",
-                "Color": "Black",
+                "Color": "#000000",
                 "Area": "DataArea"
               }
             ],
@@ -22303,8 +22476,8 @@
           "Settings": {
             "SideMarginsEnabled": true,
             "LegendPosition": "Bottom",
-            "BackColor": "Transparent",
-            "DiagramBackColor": "White"
+            "BackColor": "#FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
           },
           "OriginText": "Amikacin_clean\nWalker 1979 POP\n2019-05-11 11:42"
         },
@@ -22315,11 +22488,11 @@
               {
                 "Name": "Concentration-Walker 1979 POP-Amikacin-Organism-Peripheral Venous Blood-Plasma",
                 "Dimension": "Concentration (molar)",
-                "Scaling": "Log",
+                "Scaling": "Linear",
                 "Unit": "µg/l",
                 "QuantityPath": "Organism|PeripheralVenousBlood|Amikacin|Plasma (Peripheral Venous Blood)",
                 "QuantityType": "Drug, Observer",
-                "Color": "Black",
+                "Color": "#000000",
                 "Area": "DataArea"
               }
             ],
@@ -22374,8 +22547,8 @@
           "Settings": {
             "SideMarginsEnabled": true,
             "LegendPosition": "Bottom",
-            "BackColor": "Transparent",
-            "DiagramBackColor": "White"
+            "BackColor": "#FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
           },
           "OriginText": "Amikacin_clean\nWalker 1979 POP\n2019-05-11 11:42"
         }
@@ -22776,7 +22949,7 @@
             "Treluyer 2002 1.27m ID5",
             "Treluyer 2002 1.75m ID6",
             "Treluyer 2002 6.19m ID7",
-            "Treluyer 2002 9.21m ID8",
+            "Treluyer 2002 9.21m ID7",
             "Treluyer 2002 24.29m ID9",
             "Treluyer 2002 48.73m ID10",
             "Treluyer 2002 73.02m ID11",
