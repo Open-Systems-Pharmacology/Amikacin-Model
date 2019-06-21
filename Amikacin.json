@@ -21601,8 +21601,7 @@
         }
       ],
       "OutputSelections": [
-        "Organism|PeripheralVenousBlood|Amikacin|Plasma (Peripheral Venous Blood)",
-        "Organism|Kidney|Urine|Amikacin|Fraction excreted to urine"
+        "Organism|PeripheralVenousBlood|Amikacin|Plasma (Peripheral Venous Blood)"
       ],
       "Individual": "Walker 1979 Volunteer 6",
       "Compounds": [
@@ -21708,7 +21707,7 @@
               "WatermarkSize": 32
             }
           },
-          "OriginText": "Amikacin_clean\nWalker 1979 Volunteer 6\n2019-05-11 11:35"
+          "OriginText": "Amikacin\nWalker 1979 Volunteer 6\n2019-06-21 16:55"
         },
         {
           "Axes": [
@@ -21794,7 +21793,7 @@
               "WatermarkSize": 32
             }
           },
-          "OriginText": "Amikacin_clean\nWalker 1979 Volunteer 6\n2019-05-11 11:35"
+          "OriginText": "Amikacin\nWalker 1979 Volunteer 6\n2019-06-21 16:55"
         }
       ]
     },
@@ -22090,8 +22089,7 @@
         }
       ],
       "OutputSelections": [
-        "Organism|PeripheralVenousBlood|Amikacin|Plasma (Peripheral Venous Blood)",
-        "Organism|Kidney|Urine|Amikacin|Fraction excreted to urine"
+        "Organism|PeripheralVenousBlood|Amikacin|Plasma (Peripheral Venous Blood)"
       ],
       "Individual": "Walker 1979 Volunteer 9",
       "Compounds": [
@@ -22198,7 +22196,7 @@
               "WatermarkSize": 32
             }
           },
-          "OriginText": "Amikacin_clean\nWalker 1979 Volunteer 9\n2019-05-11 11:36"
+          "OriginText": "Amikacin\nWalker 1979 Volunteer 9\n2019-06-21 16:55"
         },
         {
           "Axes": [
@@ -22285,7 +22283,7 @@
               "WatermarkSize": 32
             }
           },
-          "OriginText": "Amikacin_clean\nWalker 1979 Volunteer 9\n2019-05-11 11:36"
+          "OriginText": "Amikacin\nWalker 1979 Volunteer 9\n2019-06-21 16:55"
         }
       ]
     },
@@ -22387,8 +22385,7 @@
         }
       ],
       "OutputSelections": [
-        "Organism|PeripheralVenousBlood|Amikacin|Plasma (Peripheral Venous Blood)",
-        "Organism|Kidney|Urine|Amikacin|Fraction excreted to urine"
+        "Organism|PeripheralVenousBlood|Amikacin|Plasma (Peripheral Venous Blood)"
       ],
       "Population": "Walker 1979 pop",
       "Compounds": [
@@ -22479,7 +22476,7 @@
             "BackColor": "#FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Amikacin_clean\nWalker 1979 POP\n2019-05-11 11:42"
+          "OriginText": "Amikacin\nWalker 1979 POP\n2019-06-21 16:56"
         },
         {
           "Type": "TimeProfile",
@@ -22550,7 +22547,7 @@
             "BackColor": "#FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Amikacin_clean\nWalker 1979 POP\n2019-05-11 11:42"
+          "OriginText": "Amikacin\nWalker 1979 POP\n2019-06-21 16:56"
         }
       ]
     }
