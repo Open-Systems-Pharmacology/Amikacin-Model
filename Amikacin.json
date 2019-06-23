@@ -20118,7 +20118,7 @@
       ]
     },
     {
-      "Name": "Treluyer 2002 9.21m ID7",
+      "Name": "Treluyer 2002 9.21m ID8",
       "Model": "4Comp",
       "Solver": {},
       "OutputSchema": [
@@ -20221,9 +20221,9 @@
           ],
           "Curves": [
             {
-              "Name": "Treluyer 2002 9.21m ID7-Amikacin-Peripheral Venous Blood-Plasma-Concentration",
+              "Name": "Treluyer 2002 9.21m ID8-Amikacin-Peripheral Venous Blood-Plasma-Concentration",
               "X": "Time",
-              "Y": "Treluyer 2002 9.21m ID7|Organism|PeripheralVenousBlood|Amikacin|Plasma (Peripheral Venous Blood)",
+              "Y": "Treluyer 2002 9.21m ID8|Organism|PeripheralVenousBlood|Amikacin|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
                 "Color": "#FF0000",
                 "LegendIndex": 1
@@ -22896,7 +22896,7 @@
             "Treluyer 2002 1.27m ID5",
             "Treluyer 2002 1.75m ID6",
             "Treluyer 2002 6.19m ID7",
-            "Treluyer 2002 9.21m ID7",
+            "Treluyer 2002 9.21m ID8",
             "Treluyer 2002 24.29m ID9",
             "Treluyer 2002 48.73m ID10",
             "Treluyer 2002 73.02m ID11",
