@@ -21670,18 +21670,6 @@
               }
             },
             {
-              "Name": "Walker 1979 Volunteer 6-Amikacin-Kidney-Urine-Fraction excreted to urine",
-              "X": "Time",
-              "Y": "Walker 1979 Volunteer 6|Organism|Kidney|Urine|Amikacin|Fraction excreted to urine",
-              "CurveOptions": {
-                "yAxisType": "Y2",
-                "Visible": false,
-                "Color": "#0000FF",
-                "LegendIndex": 2,
-                "LineStyle": "Dash"
-              }
-            },
-            {
               "Name": "Walker 1979.500mg.IV bolus 4min (2-5min).Volunteer 6-Amikacin-Peripheral Venous Blood-Plasma-Volunteer 6 (Concentration) ",
               "X": "Walker 1979.500mg.IV bolus 4min (2-5min).Volunteer 6|Time ",
               "Y": "Walker 1979.500mg.IV bolus 4min (2-5min).Volunteer 6|ObservedData|Peripheral Venous Blood|Plasma|Amikacin|Volunteer 6 (Concentration) ",
@@ -21753,18 +21741,6 @@
               "CurveOptions": {
                 "Color": "#FF0000",
                 "LegendIndex": 1
-              }
-            },
-            {
-              "Name": "Walker 1979 Volunteer 6-Amikacin-Kidney-Urine-Fraction excreted to urine",
-              "X": "Time",
-              "Y": "Walker 1979 Volunteer 6|Organism|Kidney|Urine|Amikacin|Fraction excreted to urine",
-              "CurveOptions": {
-                "yAxisType": "Y2",
-                "Visible": false,
-                "Color": "#0000FF",
-                "LegendIndex": 2,
-                "LineStyle": "Dash"
               }
             },
             {
@@ -22158,19 +22134,6 @@
               }
             },
             {
-              "Name": "Walker 1979 Volunteer 9-Amikacin-Kidney-Urine-Fraction excreted to urine",
-              "X": "Time",
-              "Y": "Walker 1979 Volunteer 9|Organism|Kidney|Urine|Amikacin|Fraction excreted to urine",
-              "CurveOptions": {
-                "yAxisType": "Y2",
-                "Visible": false,
-                "VisibleInLegend": false,
-                "Color": "#0000FF",
-                "LegendIndex": 2,
-                "LineStyle": "Dash"
-              }
-            },
-            {
               "Name": "Walker 1979.500mg.IV bolus 4min (2-5min).Volunteer 9-Amikacin-Peripheral Venous Blood-Plasma-Volunteer 9 (Concentration) ",
               "X": "Walker 1979.500mg.IV bolus 4min (2-5min).Volunteer 9|Time ",
               "Y": "Walker 1979.500mg.IV bolus 4min (2-5min).Volunteer 9|ObservedData|Peripheral Venous Blood|Plasma|Amikacin|Volunteer 9 (Concentration) ",
@@ -22242,19 +22205,6 @@
               "CurveOptions": {
                 "Color": "#FF0000",
                 "LegendIndex": 1
-              }
-            },
-            {
-              "Name": "Walker 1979 Volunteer 9-Amikacin-Kidney-Urine-Fraction excreted to urine",
-              "X": "Time",
-              "Y": "Walker 1979 Volunteer 9|Organism|Kidney|Urine|Amikacin|Fraction excreted to urine",
-              "CurveOptions": {
-                "yAxisType": "Y2",
-                "Visible": false,
-                "VisibleInLegend": false,
-                "Color": "#0000FF",
-                "LegendIndex": 2,
-                "LineStyle": "Dash"
               }
             },
             {
