@@ -21646,17 +21646,6 @@
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
-            },
-            {
-              "Unit": "",
-              "Dimension": "Fraction",
-              "Type": "Y2",
-              "GridLines": false,
-              "Visible": true,
-              "DefaultColor": "#FFFFFF",
-              "DefaultLineStyle": "Dash",
-              "Scaling": "Log",
-              "NumberMode": "Normal"
             }
           ],
           "Curves": [
@@ -21719,17 +21708,6 @@
               "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Linear",
-              "NumberMode": "Normal"
-            },
-            {
-              "Unit": "",
-              "Dimension": "Fraction",
-              "Type": "Y2",
-              "GridLines": false,
-              "Visible": true,
-              "DefaultColor": "#FFFFFF",
-              "DefaultLineStyle": "Dash",
-              "Scaling": "Log",
               "NumberMode": "Normal"
             }
           ],
@@ -22110,17 +22088,6 @@
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
-            },
-            {
-              "Unit": "",
-              "Dimension": "Fraction",
-              "Type": "Y2",
-              "GridLines": false,
-              "Visible": true,
-              "DefaultColor": "#FFFFFF",
-              "DefaultLineStyle": "Dash",
-              "Scaling": "Log",
-              "NumberMode": "Normal"
             }
           ],
           "Curves": [
@@ -22183,17 +22150,6 @@
               "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Linear",
-              "NumberMode": "Normal"
-            },
-            {
-              "Unit": "",
-              "Dimension": "Fraction",
-              "Type": "Y2",
-              "GridLines": false,
-              "Visible": true,
-              "DefaultColor": "#FFFFFF",
-              "DefaultLineStyle": "Dash",
-              "Scaling": "Log",
               "NumberMode": "Normal"
             }
           ],
