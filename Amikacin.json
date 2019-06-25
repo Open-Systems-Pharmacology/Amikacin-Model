@@ -16444,21 +16444,24 @@
           "Type": "Base",
           "Pka": 9.7,
           "ValueOrigin": {
-            "Source": "Unknown"
+            "Source": "Publication",
+            "Description": "Claassen et al 2015"
           }
         },
         {
           "Type": "Base",
           "Pka": 8.92,
           "ValueOrigin": {
-            "Source": "Unknown"
+            "Source": "Publication",
+            "Description": "Claassen et al 2015"
           }
         },
         {
           "Type": "Base",
           "Pka": 8.13,
           "ValueOrigin": {
-            "Source": "Unknown"
+            "Source": "Publication",
+            "Description": "Claassen et al 2015"
           }
         }
       ],
@@ -16470,7 +16473,11 @@
           "Parameters": [
             {
               "Name": "GFR fraction",
-              "Value": 1.0
+              "Value": 1.0,
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Description": "Claassen et al 2015"
+              }
             }
           ]
         }
@@ -16483,7 +16490,11 @@
         {
           "Name": "Molecular weight",
           "Value": 588.6,
-          "Unit": "g/mol"
+          "Unit": "g/mol",
+          "ValueOrigin": {
+            "Source": "Publication",
+            "Description": "Claassen et al 2015"
+          }
         }
       ]
     }
