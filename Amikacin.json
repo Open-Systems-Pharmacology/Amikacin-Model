@@ -16444,21 +16444,24 @@
           "Type": "Base",
           "Pka": 9.7,
           "ValueOrigin": {
-            "Source": "Unknown"
+            "Source": "Publication",
+            "Description": "Claassen et al 2015"
           }
         },
         {
           "Type": "Base",
           "Pka": 8.92,
           "ValueOrigin": {
-            "Source": "Unknown"
+            "Source": "Publication",
+            "Description": "Claassen et al 2015"
           }
         },
         {
           "Type": "Base",
           "Pka": 8.13,
           "ValueOrigin": {
-            "Source": "Unknown"
+            "Source": "Publication",
+            "Description": "Claassen et al 2015"
           }
         }
       ],
@@ -16470,7 +16473,11 @@
           "Parameters": [
             {
               "Name": "GFR fraction",
-              "Value": 1.0
+              "Value": 1.0,
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Description": "Claassen et al 2015"
+              }
             }
           ]
         }
@@ -16483,7 +16490,11 @@
         {
           "Name": "Molecular weight",
           "Value": 588.6,
-          "Unit": "g/mol"
+          "Unit": "g/mol",
+          "ValueOrigin": {
+            "Source": "Publication",
+            "Description": "Claassen et al 2015"
+          }
         }
       ]
     }
@@ -20118,7 +20129,7 @@
       ]
     },
     {
-      "Name": "Treluyer 2002 9.21m ID7",
+      "Name": "Treluyer 2002 9.21m ID8",
       "Model": "4Comp",
       "Solver": {},
       "OutputSchema": [
@@ -20221,9 +20232,9 @@
           ],
           "Curves": [
             {
-              "Name": "Treluyer 2002 9.21m ID7-Amikacin-Peripheral Venous Blood-Plasma-Concentration",
+              "Name": "Treluyer 2002 9.21m ID8-Amikacin-Peripheral Venous Blood-Plasma-Concentration",
               "X": "Time",
-              "Y": "Treluyer 2002 9.21m ID7|Organism|PeripheralVenousBlood|Amikacin|Plasma (Peripheral Venous Blood)",
+              "Y": "Treluyer 2002 9.21m ID8|Organism|PeripheralVenousBlood|Amikacin|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
                 "Color": "#FF0000",
                 "LegendIndex": 1
@@ -21646,17 +21657,6 @@
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
-            },
-            {
-              "Unit": "",
-              "Dimension": "Fraction",
-              "Type": "Y2",
-              "GridLines": false,
-              "Visible": true,
-              "DefaultColor": "#FFFFFF",
-              "DefaultLineStyle": "Dash",
-              "Scaling": "Log",
-              "NumberMode": "Normal"
             }
           ],
           "Curves": [
@@ -21719,17 +21719,6 @@
               "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Linear",
-              "NumberMode": "Normal"
-            },
-            {
-              "Unit": "",
-              "Dimension": "Fraction",
-              "Type": "Y2",
-              "GridLines": false,
-              "Visible": true,
-              "DefaultColor": "#FFFFFF",
-              "DefaultLineStyle": "Dash",
-              "Scaling": "Log",
               "NumberMode": "Normal"
             }
           ],
@@ -22110,17 +22099,6 @@
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
-            },
-            {
-              "Unit": "",
-              "Dimension": "Fraction",
-              "Type": "Y2",
-              "GridLines": false,
-              "Visible": true,
-              "DefaultColor": "#FFFFFF",
-              "DefaultLineStyle": "Dash",
-              "Scaling": "Log",
-              "NumberMode": "Normal"
             }
           ],
           "Curves": [
@@ -22183,17 +22161,6 @@
               "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Linear",
-              "NumberMode": "Normal"
-            },
-            {
-              "Unit": "",
-              "Dimension": "Fraction",
-              "Type": "Y2",
-              "GridLines": false,
-              "Visible": true,
-              "DefaultColor": "#FFFFFF",
-              "DefaultLineStyle": "Dash",
-              "Scaling": "Log",
               "NumberMode": "Normal"
             }
           ],
@@ -22896,7 +22863,7 @@
             "Treluyer 2002 1.27m ID5",
             "Treluyer 2002 1.75m ID6",
             "Treluyer 2002 6.19m ID7",
-            "Treluyer 2002 9.21m ID7",
+            "Treluyer 2002 9.21m ID8",
             "Treluyer 2002 24.29m ID9",
             "Treluyer 2002 48.73m ID10",
             "Treluyer 2002 73.02m ID11",
