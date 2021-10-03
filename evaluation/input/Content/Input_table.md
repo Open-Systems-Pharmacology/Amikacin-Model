@@ -1,4 +1,4 @@
-The compound parameter values of the final raltegravir PBPK model are illustrated below.
+The compound parameter values of the final amikacin PBPK model are illustrated below.
 
 
 
