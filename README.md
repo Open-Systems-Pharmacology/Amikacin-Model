@@ -5,11 +5,16 @@ Whole-body PBPK model of Amikacin
   <img src="Amikacin.png">
 </p>
 
-## Repository files
+This repository contains:
 
-Within this repository, we distribute a whole-body PBPK model of  Amikacin, that has been previously developed using clinical studies in preterm-neonates [[1](#reference)] and evaluated for its predictive performance of GFR mediated clearance in adults and term born children. 
+- a [PK-Sim snapshot (*.json) file](https://docs.open-systems-pharmacology.org/working-with-pk-sim/pk-sim-documentation/importing-exporting-project-data-models#exporting-project-to-snapshot-loading-project-from-snapshot)  of the current PBPK model
+- static content (e.g. text blocks, *.md files) as inputs for an evaluation plan
+- an evaluation plan (evaluation-plan.json) to create an evaluation report using the snapshot and static text blocks to display the performance of the model
 
-The PK-Sim project file contains simulations of all published pediatric clinical studies that are used for model predictions [[2-5](#reference)] in adults and pediatrics. For details on the model development in pre-term neonates, quantitative model evaluation, sensitivity analysis and documentation please refer to [[1](#reference)].
+**The latest release of the snapshot of the model, the evaluation plan and the static content can be found [here](../../releases/latest).**
+
+**The latest release of the PK-Sim project model file and the respective evaluation report can be found [here](https://github.com/Open-Systems-Pharmacology/OSP-PBPK-Model-Library/releases/latest).**
+
 
 ## Code of conduct
 
@@ -22,15 +27,3 @@ We encourage contribution to the Open Systems Pharmacology community. Before get
 ## License
 
 The model code is distributed under the [GPLv2 License](https://github.com/Open-Systems-Pharmacology/Suite/blob/develop/LICENSE).
-
-## Reference
-[1] [Claassen K, Thelen K, Coboeken K, Gaub T, Lippert J, Allegaert K, Willmann S1. Development of a Physiologically-Based Pharmacokinetic Model for Preterm Neonates: Evaluation with In Vivo Data. Curr Pharm Des. 2015;21(39):5688-98.](http://www.eurekaselect.com/134577/article)
-
-[2] [Tréluyer JM, Merlé Y, Tonnelier S, Rey E, Pons G. Nonparametric population pharmacokinetic analysis of amikacin in neonates, infants, and children. Antimicrob Agents Chemother. 2002 May;46(5):1381-7.](https://aac.asm.org/content/46/5/1381.long)
-
-[3] [Vogelstein B, Kowarski A, Lietman PS. The pharmacokinetics of amikacin in children. J Pediatr. 1977 Aug;91(2):333-9.](https://www.sciencedirect.com/science/article/pii/S0022347677808470?via%3Dihub)
-
-[4] [Belfayol L, Talon P, Eveillard M, Alet P, Fauvelle F. Pharmacokinetics of once-daily amikacin in pediatric patients. Clin Microbiol Infect. 1996 Feb;2(3):186-191.](https://www.sciencedirect.com/science/article/pii/S1198743X14651417?via%3Dihub)
-
-[5] [Walker JM, Wise R, Mitchard M. The pharmacokinetics of amikacin and gentamicin in volunteers: a comparison of individual differences. J Antimicrob Chemother. 1979 Jan;5(1):95-9.](https://academic.oup.com/jac/article/5/1/95/747852)  
-
