@@ -2,7 +2,7 @@
 
 A literature search was performed to collect available information on physicochemical properties of amikacin. The obtained information from literature is summarized in the table below, and is used for model building.
 
-| **Parameter**   | **Unit** | **Raltegravir literature**                       | **Description**                                 |
+| **Parameter**   | **Unit** | **Amikacin literature**                       | **Description**                                 |
 | :-------------- | -------- | ------------------------------------------------ | ----------------------------------------------- |
 | MW              | g/mol    | 588.6 ([Claassen 2015](#5-references))           | Molecular weight                                |
 | pKa             |          | 9.7, 8.92, 8.13 ([Claassen 2015](#5-references)) | Acid dissociation constants                     |
