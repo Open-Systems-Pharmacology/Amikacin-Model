@@ -1,15 +1,15 @@
-### 2.2.1 In vitro / physico-chemical data
+### 2.2.1 In vitro / physicochemical data
 
 A literature search was performed to collect available information on physicochemical properties of amikacin. The obtained information from literature is summarized in the table below, and is used for model building.
 
-| **Parameter**   | **Unit** | **Amikacin literature**                       | **Description**                                 |
-| :-------------- | -------- | ------------------------------------------------ | ----------------------------------------------- |
-| MW              | g/mol    | 588.6 ([Claassen 2015](#5-references))           | Molecular weight                                |
-| pKa             |          | 9.7, 8.92, 8.13 ([Claassen 2015](#5-references)) | Acid dissociation constants                     |
-| Solubility (pH) | mg/L     | 50  ([Drugbank.ca](#5-references))               | Solubility                                      |
-| logMA           |          | -0.48 ([Claassen 2015](#5-references))           | Partition coefficient between octanol and water |
-| fu              |          | 1 ([Claassen 2015](#5-references))               | Fraction unbound                                |
-| GFR             |          | 1 ([Claassen 2015](#5-references))               | Glomerular Filtration Rate fraction             |
+| **Parameter**   | **Unit** | **Value (reference)**                            | **Description**                        |
+| :-------------- | -------- | ------------------------------------------------ | -------------------------------------- |
+| MW              | g/mol    | 588.6 ([Claassen 2015](#5-references))           | Molecular weight                       |
+| pKa             |          | 9.7, 8.92, 8.13 ([Claassen 2015](#5-references)) | Acid dissociation constants            |
+| Solubility (pH) | mg/L     | 50 (7)  ([Drugbank.ca](#5-references))           | Solubility                             |
+| logMA           |          | -0.48 ([Claassen 2015](#5-references))           | The logarithm of the membrane affinity |
+| fu              |          | 1 ([Claassen 2015](#5-references))               | Fraction unbound                       |
+| GFR fraction    |          | 1 ([Claassen 2015](#5-references))               | Glomerular Filtration Rate fraction    |
 
 ### 2.2.2 Clinical data
 
