@@ -9,7 +9,7 @@ This repository contains:
 
 - a [PK-Sim snapshot (*.json) file](https://docs.open-systems-pharmacology.org/working-with-pk-sim/pk-sim-documentation/importing-exporting-project-data-models#exporting-project-to-snapshot-loading-project-from-snapshot)  of the current PBPK model
 - static content (e.g. text blocks, *.md files) as inputs for an evaluation plan
-- an evaluation plan (evaluation-plan.json) to create an evaluation report using the snapshot and static text blocks to display the performance of the model
+- an evaluation plan (evaluation_plan.json) to create an evaluation report using the snapshot and static text blocks to display the performance of the model
 
 **The latest release of the snapshot of the model, the evaluation plan and the static content can be found [here](../../releases/latest).**
 
