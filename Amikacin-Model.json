@@ -1,5 +1,7 @@
 {
-  "Version": 80,
+  "Name": "Amikacin-Model",
+  "Version": 81,
+  "ApplicationName": "PK-Sim",
   "Individuals": [
     {
       "Name": "Walker 1979 Volunteer 1",
@@ -453,17 +455,20 @@
         {
           "Name": "Start time",
           "Value": 0.0,
-          "Unit": "h"
+          "Unit": "h",
+          "ValueOrigin": {}
         },
         {
           "Name": "InputDose",
           "Value": 500.0,
-          "Unit": "mg"
+          "Unit": "mg",
+          "ValueOrigin": {}
         },
         {
           "Name": "Infusion time",
           "Value": 4.0,
-          "Unit": "min"
+          "Unit": "min",
+          "ValueOrigin": {}
         }
       ]
     }
@@ -479,7 +484,8 @@
             {
               "Name": "Start time",
               "Value": 0.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "End time",
@@ -502,9 +508,10 @@
       ],
       "Parameters": [
         {
-          "Path": "Events|Walker 1979 Volunteer 1|Application_1|ProtocolSchemaItem|Infusion time",
+          "Path": "Events|Walker 1979 Volunteer 1|No formulation|Application_1|ProtocolSchemaItem|Infusion time",
           "Value": 4.0,
-          "Unit": "min"
+          "Unit": "min",
+          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -625,7 +632,8 @@
             {
               "Name": "Start time",
               "Value": 0.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "End time",
@@ -648,9 +656,10 @@
       ],
       "Parameters": [
         {
-          "Path": "Events|Walker 1979 Volunteer 1|Application_1|ProtocolSchemaItem|Infusion time",
+          "Path": "Events|Walker 1979 Volunteer 1|No formulation|Application_1|ProtocolSchemaItem|Infusion time",
           "Value": 4.0,
-          "Unit": "min"
+          "Unit": "min",
+          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -841,7 +850,8 @@
             {
               "Name": "Start time",
               "Value": 0.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "End time",
@@ -864,9 +874,10 @@
       ],
       "Parameters": [
         {
-          "Path": "Events|Walker 1979 Volunteer 1|Application_1|ProtocolSchemaItem|Infusion time",
+          "Path": "Events|Walker 1979 Volunteer 1|No formulation|Application_1|ProtocolSchemaItem|Infusion time",
           "Value": 4.0,
-          "Unit": "min"
+          "Unit": "min",
+          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -1050,7 +1061,8 @@
             {
               "Name": "Start time",
               "Value": 0.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "End time",
@@ -1073,9 +1085,10 @@
       ],
       "Parameters": [
         {
-          "Path": "Events|Walker 1979 Volunteer 1|Application_1|ProtocolSchemaItem|Infusion time",
+          "Path": "Events|Walker 1979 Volunteer 1|No formulation|Application_1|ProtocolSchemaItem|Infusion time",
           "Value": 4.0,
-          "Unit": "min"
+          "Unit": "min",
+          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -1193,7 +1206,8 @@
             {
               "Name": "Start time",
               "Value": 0.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "End time",
@@ -1216,9 +1230,10 @@
       ],
       "Parameters": [
         {
-          "Path": "Events|Walker 1979 Volunteer 1|Application_1|ProtocolSchemaItem|Infusion time",
+          "Path": "Events|Walker 1979 Volunteer 1|No formulation|Application_1|ProtocolSchemaItem|Infusion time",
           "Value": 4.0,
-          "Unit": "min"
+          "Unit": "min",
+          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -1339,7 +1354,8 @@
             {
               "Name": "Start time",
               "Value": 0.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "End time",
@@ -1362,9 +1378,10 @@
       ],
       "Parameters": [
         {
-          "Path": "Events|Walker 1979 Volunteer 1|Application_1|ProtocolSchemaItem|Infusion time",
+          "Path": "Events|Walker 1979 Volunteer 1|No formulation|Application_1|ProtocolSchemaItem|Infusion time",
           "Value": 4.0,
-          "Unit": "min"
+          "Unit": "min",
+          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -1548,7 +1565,8 @@
             {
               "Name": "Start time",
               "Value": 0.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "End time",
@@ -1571,9 +1589,10 @@
       ],
       "Parameters": [
         {
-          "Path": "Events|Walker 1979 Volunteer 1|Application_1|ProtocolSchemaItem|Infusion time",
+          "Path": "Events|Walker 1979 Volunteer 1|No formulation|Application_1|ProtocolSchemaItem|Infusion time",
           "Value": 4.0,
-          "Unit": "min"
+          "Unit": "min",
+          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -1691,7 +1710,8 @@
             {
               "Name": "Start time",
               "Value": 0.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "End time",
@@ -1714,9 +1734,10 @@
       ],
       "Parameters": [
         {
-          "Path": "Events|Walker 1979 Volunteer 1|Application_1|ProtocolSchemaItem|Infusion time",
+          "Path": "Events|Walker 1979 Volunteer 1|No formulation|Application_1|ProtocolSchemaItem|Infusion time",
           "Value": 4.0,
-          "Unit": "min"
+          "Unit": "min",
+          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -1834,7 +1855,8 @@
             {
               "Name": "Start time",
               "Value": 0.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "End time",
@@ -1857,9 +1879,10 @@
       ],
       "Parameters": [
         {
-          "Path": "Events|Walker 1979 Volunteer 1|Application_1|ProtocolSchemaItem|Infusion time",
+          "Path": "Events|Walker 1979 Volunteer 1|No formulation|Application_1|ProtocolSchemaItem|Infusion time",
           "Value": 4.0,
-          "Unit": "min"
+          "Unit": "min",
+          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -1977,7 +2000,8 @@
             {
               "Name": "Start time",
               "Value": 0.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "End time",
@@ -2000,9 +2024,10 @@
       ],
       "Parameters": [
         {
-          "Path": "Events|Walker 1979 Volunteer 1|Application_1|ProtocolSchemaItem|Infusion time",
+          "Path": "Events|Walker 1979 Volunteer 1|No formulation|Application_1|ProtocolSchemaItem|Infusion time",
           "Value": 4.0,
-          "Unit": "min"
+          "Unit": "min",
+          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -2120,7 +2145,8 @@
             {
               "Name": "Start time",
               "Value": 0.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "End time",
@@ -2143,9 +2169,10 @@
       ],
       "Parameters": [
         {
-          "Path": "Events|Walker 1979 Volunteer 1|Application_1|ProtocolSchemaItem|Infusion time",
+          "Path": "Events|Walker 1979 Volunteer 1|No formulation|Application_1|ProtocolSchemaItem|Infusion time",
           "Value": 4.0,
-          "Unit": "min"
+          "Unit": "min",
+          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -2363,8 +2390,8 @@
           "Values": [
             34940.27,
             26621.0,
-            26339.6211,
-            18603.3789,
+            26339.621,
+            18603.379,
             14651.0,
             12051.26,
             8334.432,
@@ -2388,8 +2415,8 @@
           "AuxiliaryType": "Undefined"
         },
         "Values": [
-          0.166666672,
-          0.333333343,
+          0.16666667,
+          0.33333334,
           0.5,
           1.0,
           1.5,
@@ -2565,8 +2592,8 @@
           "AuxiliaryType": "Undefined"
         },
         "Values": [
-          0.166666672,
-          0.333333343,
+          0.16666667,
+          0.33333334,
           0.5,
           1.0,
           1.5,
@@ -2691,7 +2718,7 @@
             36504.99,
             32393.35,
             22878.47,
-            18819.7988,
+            18819.799,
             14345.17,
             10705.63,
             7403.627,
@@ -2714,8 +2741,8 @@
           "AuxiliaryType": "Undefined"
         },
         "Values": [
-          0.166666672,
-          0.333333343,
+          0.16666667,
+          0.33333334,
           0.5,
           1.0,
           1.5,
