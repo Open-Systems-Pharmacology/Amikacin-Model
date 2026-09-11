@@ -1,6 +1,7 @@
 {
   "Name": "Amikacin-Model",
   "Version": 81,
+  "ApplicationName": "PK-Sim",
   "Individuals": [
     {
       "Name": "Walker 1979 Volunteer 1",
@@ -2784,6 +2785,5 @@
         }
       ]
     }
-  ],
-  "ApplicationName": "PK-Sim"
+  ]
 }
